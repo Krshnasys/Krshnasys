@@ -1,4 +1,11 @@
-<h1 align="center">Yo! I'm Krshnasys <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" /></h1>
+<pre align="center">
+██╗  ██╗██████╗ ███████╗██╗  ██╗███╗   ██╗ █████╗ ███████╗██╗   ██╗
+██║ ██╔╝██╔══██╗██╔════╝██║  ██║████╗  ██║██╔══██╗██╔════╝╚██╗ ██╔╝
+█████╔╝ ██████╔╝███████╗███████║██╔██╗ ██║███████║███████╗ ╚████╔╝ 
+██╔═██╗ ██╔═══╝ ╚════██║██╔══██║██║╚██╗██║██╔══██║╚════██║  ╚██╔╝  
+██║  ██╗██║     ███████║██║  ██║██║ ╚████║██║  ██║███████║   ██║   
+╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝   ╚═╝   
+</pre>
 
 <p align="center">
   <a href="https://github.com/Krshnasys"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Not+a+developer%2C+just+a+Copy+Paster;Ctrl%2BC+Ctrl%2BV+Specialist;StackOverflow+Ninja;99%25+confidence%2C+1%25+code;Runs+on+vibes+and+bugs;Debugger%3F+I+just+restart;Commit+and+pray;I+break+things+professionally;Artificial+Intelligence%3F+I+prefer+Natural+Stupidity;System.out.println('Working');Semicolon+%3D+Silent+Killer;404+Skill+Not+Found;if+(code)+%7B+break+%7D;Import+this%3A+chaos;Keyboard+smashes+%3E+Syntax;Undefined+is+my+best+friend;Coffee+driven+dev;Still+learning+Git...+everyday;Echo+Hello+World+%3E+Coding;IDK+what+I'm+doing%2C+but+it+works;Bugs+are+features%2C+right%3F;Readme+Driven+Development;Google%3A+My+co-coder;CD+to+nowhere;Touch+grass.sh;YOLO-driven+deployment;Deploying+in+3%2C+2%2C+panic" /></a>
@@ -9,16 +16,27 @@
   <a href="https://github.com/Krshnasys"><img src="https://img.shields.io/github/followers/Krshnasys?label=Follow&style=for-the-badge" /></a>
 </p>
 
-<h2 align="center">🧠 Stats I Pretend to Understand</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krshnasys&show_icons=true&theme=tokyonight&count_private=true" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krshnasys&theme=tokyonight" height="200" />
+  <img src="https://img.shields.io/badge/Mood-Sarcastic-blue" />
+  <img src="https://img.shields.io/badge/Debugger-Disabled-red" />
+  <img src="https://img.shields.io/badge/Coding%20Style-Chaotic%20Neutral-lightgrey" />
+  <img src="https://img.shields.io/badge/IDE-Notepad++-green" />
 </p>
 
-<h2 align="center">🧾 Top Copy-Paste Languages</h2>
+<h2 align="center">🧠 Endorsed By</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnasys&layout=compact&theme=tokyonight" height="200" />
+  <b>Elon Musk:</b> "I hired him to copy paste SpaceX scripts."<br>
+  <b>Bill Gates:</b> "Ctrl+C Ctrl+V... legendary skillset."<br>
+  <b>ChatGPT:</b> "Even I can't debug like him."<br>
 </p>
+
+<h2 align="center">🛸 My Legendary Projects</h2>
+<ul align="center">
+  <li><b>404inator</b>: AI that finds bugs where there aren’t any</li>
+  <li><b>InstaCrash</b>: One click to crash Instagram (not recommended)</li>
+  <li><b>GitForget</b>: Git CLI but deletes your repo if you panic</li>
+  <li><b>AI-Typer</b>: Types random code while you sleep</li>
+</ul>
 
 <h2 align="center">🧃 Tools I Barely Use</h2>
 <p align="center">
@@ -27,11 +45,15 @@
 
 <h2 align="center">📈 Graphs That Make Me Look Productive</h2>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krshnasys&show_icons=true&theme=tokyonight&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krshnasys&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnasys&layout=compact&theme=tokyonight" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krshnasys&theme=tokyo-night&area=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krshnasys&style=flat-square&color=blue" alt="profile views" />
   <br />
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="300" /><br />
   <b>Thanks for scrolling... now go <code>sudo rm -rf /</code> like a pro!</b>
 </p>
