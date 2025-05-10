@@ -10,7 +10,7 @@
   <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-19.3k%20followers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<h2 align="center">🧠 Stats I Pretend to Understand</h2>
+<h2 align="center">Noob Profile Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krshnasys&show_icons=true&theme=tokyonight&count_private=true" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krshnasys&theme=tokyonight" height="200" />
