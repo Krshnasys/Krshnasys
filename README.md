@@ -1,6 +1,6 @@
 <h1 align="center">
-  Yo! I'm Krshnasys 💡
-  <img src="https://media.giphy.com/media/3o7aCVpWzV3p2PMp5C/giphy.gif" width="35" alt="Professional Animation"/>
+  Yo! I'm Krshnasys 🚀
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" alt="Rocket Animation"/>
 </h1>
 
 <p align="center">
