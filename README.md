@@ -1,8 +1,6 @@
-<h1 align="center">
-  <span style="font-family: 'Courier New', monospace; font-size: 24px;">Yo! I'm</span>
-  <span style="font-family: 'Lucida Handwriting', cursive; font-size: 28px; color: #4B0082;">Krshnaa</span>
-  <img src="https://media.giphy.com/media/3o7aCVpWzV3p2PMp5C/giphy.gif" width="35" alt="Professional Animation"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Krshnaa;Crafting+Bots+%7C+Copying+Code+%7C+Shipping+Chaos;Simplifying+tech+with+style.;Powered+by+Coffee+%26+StackOverflow." alt="Typing SVG" />
+</p>
   
 <p align="center">
   <a href="https://github.com/Krshnasys"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Not+a+developer%2C+just+a+Copy+Paster;Ctrl%2BC+Ctrl%2BV+Specialist;StackOverflow+Ninja;99%25+confidence%2C+1%25+code;Runs+on+vibes+and+bugs;Debugger%3F+I+just+restart;Commit+and+pray;I+break+things+professionally;Artificial+Intelligence%3F+I+prefer+Natural+Stupidity;System.out.println('Working');Semicolon+%3D+Silent+Killer;404+Skill+Not+Found;if+(code)+%7B+break+%7D;Import+this%3A+chaos;Keyboard+smashes+%3E+Syntax;Undefined+is+my+best+friend;Coffee+driven+dev;Still+learning+Git...+everyday;Echo+Hello+World+%3E+Coding;IDK+what+I'm+doing%2C+but+it+works;Bugs+are+features%2C+right%3F;Readme+Driven+Development;Google%3A+My+co-coder;CD+to+nowhere;Touch+grass.sh;YOLO-driven+deployment;Deploying+in+3%2C+2%2C+panic" /></a>
