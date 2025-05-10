@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-19.3k%20followers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-1.6k%20followers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <h2 align="center">Noob Profile Stats</h2>
