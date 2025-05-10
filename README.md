@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/Krshnasys"><img src="https://img.shields.io/github/followers/Krshnasys?label=Follow&style=for-the-badge" /></a>
+  <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-19.3k%20followers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <h2 align="center">🧠 Stats I Pretend to Understand</h2>
@@ -32,8 +31,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krshnasys&style=flat-square&color=blue" alt="profile views" />
-  <br />
-  <b>Thanks for scrolling... now go <code>sudo rm -rf /</code> like a pro!</b>
 </p>
 
 <p align="center">
