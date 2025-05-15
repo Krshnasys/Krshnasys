@@ -15,26 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Krshnasys&show_icons=true&theme=tokyonight&count_private=true" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krshnasys&theme=tokyonight" height="200" />
 </p>
-
-<h2 align="center"> </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnasys&layout=compact&theme=tokyonight" height="200" />
-</p>
-
-<h2 align="center"> </h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,postgres,sqlite,git,linux,vscode,bash,heroku" />
-</p>
-
-<h2 align="center"> </h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krshnasys&theme=tokyo-night&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krshnasys&style=flat-square&color=blue" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Krshnasys/Nxmirror-GIF/blob/main/Nxmirror.gif?raw=true" width="300" />
-</p>
