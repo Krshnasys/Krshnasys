@@ -10,23 +10,23 @@
   <a href="https://t.me/NxMirror"><img src="https://img.shields.io/badge/Telegram-1.6k%20followers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<h2 align="center">Noob Profile Stats</h2>
+<h2 align="center"> </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krshnasys&show_icons=true&theme=tokyonight&count_private=true" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krshnasys&theme=tokyonight" height="200" />
 </p>
 
-<h2 align="center">🧾 Top Copy-Paste Languages</h2>
+<h2 align="center"> </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnasys&layout=compact&theme=tokyonight" height="200" />
 </p>
 
-<h2 align="center">🧃 Tools I Barely Use</h2>
+<h2 align="center"> </h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,postgres,sqlite,git,linux,vscode,bash,heroku" />
 </p>
 
-<h2 align="center">📈 Graphs That Make Me Look Productive</h2>
+<h2 align="center"> </h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krshnasys&theme=tokyo-night&area=true" />
 </p>
